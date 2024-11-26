@@ -1,0 +1,5 @@
+# BOLA Detection Tool
+
+## Overview
+
+This tool is designed to detect potential Broken Object Level Authorization (BOLA) vulnerabilities in web applications by analyzing access logs. It scans log files for patterns of access that might indicate unauthorized users accessing data they should not have access to.
